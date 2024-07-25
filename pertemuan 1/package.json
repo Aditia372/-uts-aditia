@@ -1,0 +1,39 @@
+
+Dimensi	Keterangan	5th	50th	95th	SD
+D1	Tinggi tubuh	117.54	152.58	187.63	21.3
+D2	Tinggi mata	108.24	142.22	176.2	20.66
+D3	Tinggi bahu	96.6	126.79	156.99	18.36
+D4	Tinggi siku	73.13	95.65	118.17	13.69
+D5	Tinggi pinggul	55.33	87.3	119.27	19.43
+D6	Tinggi tulang ruas	48.58	66.51	84.44	10.9
+D7	Tinggi ujung jari 	40.56	60.39	80.21	12.05
+D8	Tinggi dalam posisi duduk	60.93	78.1	95.28	10.44
+D9	Tinggi mata dalam posisi duduk	51.11	67.89	84.68	10.2
+D10	Tinggi bahu dalam posisi duduk	37.75	54.89	72.03	10.42
+D11	Tinggi siku dalam posisi duduk 	10.84	24.65	38.47	8.4
+D12	Tebal paha	3.75	14.7	25.65	6.66
+D13	Panjang lutut	37.72	49.9	62.08	7.41
+D14	Panjang popliteal 	30.1	39.88	49.65	5.94
+D15	Tinggi lutut	36.16	48.12	60.08	7.27
+D16	Tinggi popliteal	31.03	40.07	49.1	5.49
+D17	Lebar sisi bahu	26.35	38.75	51.16	7.54
+D18	Lebar bahu bagian atas	15.44	31.32	47.19	9.65
+D19	Lebar pinggul	21.65	32.32	43	6.49
+D20	Tebal dada 	9.73	19.22	28.71	5.77
+D21	Tebal perut	11.02	20.58	30.14	5.81
+D22	Panjang lengan atas	21.85	32.04	42.23	6.2
+D23	Panjang lengan bawah	26.66	40.53	54.4	8.43
+D24	Panjang rentang tangan ke depan	48.36	66.18	84	10.83
+D25	Panjang bahu-genggaman tangan ke depan	43.75	56.72	69.7	7.89
+D26	Panjang kepala	10.77	17.91	25.05	4.34
+D27	Lebar kepala 	12.47	16.05	19.64	2.18
+D28	Panjang tangan	11.64	17.05	22.47	3.29
+D29	Lebar tangan	3.69	9.43	15.17	3.49
+D30	Panjang kaki	14.59	22.73	30.87	4.95
+D31	Lebar kaki	6.29	9.14	11.98	1.73
+D32	Panjang rentangan tangan ke samping	111.41	152.71	194	25.1
+D33	Panjang rentangan siku	57.17	79.88	102.59	13.81
+D34	Tinggi genggaman tangan ke atas dalam posisi berdiri	138.32	185.76	233.2	28.84
+D35	Tinggi genggaman ke atas dalam posisi duduk	80.24	113.42	146.61	20.17
+D36	Panjang genggaman tangan ke depan	45.52	64.51	83.5	11.54
+
